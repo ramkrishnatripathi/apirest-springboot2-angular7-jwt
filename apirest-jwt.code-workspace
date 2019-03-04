@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "backend"
+    },
+    {
+      "path": "Front"
+    }
+  ],
+  "settings": {
+    "java.dependency.packagePresentation": "flat",
+    "java.configuration.updateBuildConfiguration": "automatic"
+  }
+}

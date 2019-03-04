@@ -1,0 +1,12 @@
+{
+    "configurations": [{
+        "type": "java",
+        "name": "Spring Boot-DemoApplication<backend>",
+        "request": "launch",
+        "cwd": "${workspaceFolder}",
+        "console": "internalConsole",
+        "mainClass": "org.mjavint.backend.DemoApplication",
+        "projectName": "backend",
+        "args": ""
+    }]
+}
